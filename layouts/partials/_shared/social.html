@@ -10,6 +10,8 @@
 {{ with .Params.Contact }}
 <a href="mailto:{{ . }}" aria-label="Member Email"><i class="far fa-envelope social-icon" aria-hidden="true"></i></a>
 {{ end }}
+{{ if isset .Params "contact" }}
 {{ with .OutputFormats.Get "VCF" -}}
 <a href="{{ .Permalink }}" aria-label="Member VCard"><i class="far fa-address-card social-icon"></i></a>
 {{- end }}
+{{ end }}

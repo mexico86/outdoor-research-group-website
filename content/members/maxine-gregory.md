@@ -13,6 +13,9 @@ expertise:
   - Qualitative
   - Mixed Methods
   - Data Collection
+outputs:
+  - HTML
+  - VCF
 ---
 
 ## Core Expertise
