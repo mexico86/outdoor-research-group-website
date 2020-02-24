@@ -9,6 +9,12 @@ weight: '34'
 outputs:
   - HTML
   - VCF
+expertise:
+  - Green Space
+  - 'Evaluation '
+  - Literature Review
+  - Qualitative
+  - Mixed Methods
 ---
 
 <!--StartFragment-->

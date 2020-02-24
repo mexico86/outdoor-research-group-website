@@ -10,6 +10,12 @@ weight: '33'
 outputs:
   - HTML
   - VCF
+expertise:
+  - Green Space
+  - Plants
+  - Quantative
+  - Data Collection
+  - Project Management
 ---
 
 <!--StartFragment-->
