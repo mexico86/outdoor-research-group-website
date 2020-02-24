@@ -10,6 +10,12 @@ weight: '50'
 outputs:
   - HTML
   - VCF
+expertise:
+  - Project Management
+  - Data Collection
+  - Connections
+  - Quantative
+  - Literature Review
 ---
 
 <!--StartFragment-->

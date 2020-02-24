@@ -9,6 +9,12 @@ weight: '35'
 outputs:
   - HTML
   - VCF
+expertise:
+  - Literature Review
+  - Qualitative
+  - Data Collection
+  - Data Analysis
+  - Access to Populations
 ---
 
 <!--StartFragment-->
