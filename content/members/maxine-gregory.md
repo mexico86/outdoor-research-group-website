@@ -21,14 +21,12 @@ outputs:
 ---
 ## Expertise
 
-* Research and consultancy to quantify the 'value' of outdoor recreation.
+Research and consultancy to quantify the 'value' of outdoor recreation.
 
-  Project Management
+Project Management
 
-  Impact Evaluation 
+Impact Evaluation 
 
-  Bid Writing
-
-
+Bid Writing
 
 ## Track Record
