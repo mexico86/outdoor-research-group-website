@@ -1,25 +1,30 @@
 ---
-name: Craig Haslingden
-role: 'Lecturer in physical education, sport and health'
+name: Craig Haslingden- Lecturer Department of Sport
+role: Member of ORRG
 institution: Sheffield Hallam University
-department: Academy of Sport & Physical Activity
-image: >-
-  https://res.cloudinary.com/mexico86/image/upload/a_90/v1580489295/Mug%20Shots/Craig_Haslingden_dvvgyo.jpg
-website: 'https://www.shu.ac.uk/about-us/our-people/staff-profiles/craig-haslingden'
-weight: '33'
-outputs:
-  - HTML
-  - VCF
+department: College of Health, Wellbeing and Life Sciences
+image: https://res.cloudinary.com/mexico86/image/upload/a_90/v1580489295/Mug%20Shots/Craig_Haslingden_dvvgyo.jpg
+contact: ch2312@exchange.shu.ac.uk
 expertise:
   - Education
   - Sport Coaching
   - Qualitative
   - Connections
   - Health
+website: https://www.shu.ac.uk/about-us/our-people/staff-profiles/craig-haslingden
+weight: "33"
+outputs:
+  - HTML
+  - VCF
 ---
+## Expertise
 
-<!--StartFragment-->
+Qualitative Research Methods, Education, Health, Sport Coaching.
 
-I joined the Academy of Sport and Physical Activity in January 2018 arriving from a nineteen year teaching career in mainly secondary education with subject specialisms in physical education and geography. A proportion of this time was spent at both middle management and senior leadership levels.
+## Track Record
 
-<!--EndFragment-->
+Craig works within the Department of Sport as a lecturer in physical education, health and sport. He previously worked for 19 years in mainly secondary education with subject specialisms in physical education and geography. 
+
+He joined Sheffield Hallam University two years ago and is keen to develop a career in research and raise the profile of physical education, physical activity and health within a school curriculum context. He hopes to engage with members of ORRG and partners in research projects in the outdoor setting.
+
+A proportion of this time was spent at both middle management and senior leadership levels.
