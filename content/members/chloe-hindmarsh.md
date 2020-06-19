@@ -18,6 +18,10 @@ outputs:
   - HTML
   - VCF
 ---
+## Expertise
+
+Project Management, Design Processes/Co-production, Connections, Education, Green Spaces.
+
 ## Track Record
 
 School-centred initial teacher training (SCITT) Lead for the Sheffield Institute of Education (SIOE) and SEnior Lecturer in Post 16 Education and Training
