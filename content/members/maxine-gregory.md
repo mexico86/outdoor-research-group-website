@@ -21,8 +21,6 @@ outputs:
 ---
 ## Expertise
 
-Research and consultancy to quantify the 'value' of outdoor recreation, Bid Writing,Project Management and Impact Evaluation. 
-
-
+Connections, Consultancy, Design Processes and Co-production, Project Management, Policy, Bid Writing, Mixed Methods, Data Collection and Analysis, Evaluation, 'What Works' and Why?
 
 ## Track Record
