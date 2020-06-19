@@ -1,5 +1,5 @@
 ---
-name: Chloe Hindmarsh- Senior Lecturer
+name: Chloe Hindmarsh- Senior Lecturer, Department of Education
 role: Member of ORRG
 institution: Sheffield Hallam University
 department: Social Sciences and Humanities
