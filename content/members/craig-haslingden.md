@@ -19,7 +19,9 @@ outputs:
 ---
 ## Expertise
 
+Qualitative Research Methods, Education, Health, Sport Coaching.
 
+## Track Record
 
 Craig works within the Department of Sport as a lecturer in physical education, health and sport. He previously worked for 19 years in mainly secondary education with subject specialisms in physical education and geography. 
 
