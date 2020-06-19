@@ -19,18 +19,8 @@ outputs:
 ---
 ## Expertise
 
-
-
-
-
-
-
-
-
-
+Project Management, Health, Quantitative Research Methods, Data Collection and Analysis.
 
 ## Track Record
-
-
 
 Alice Bullas is a Research Fellow (sport and health innovation) within the Sports Engineering Research Centre with a specialism in 3D body imaging as a method of body measurement, biomechanics and applied sports science and technology research.
