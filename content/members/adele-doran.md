@@ -32,6 +32,4 @@ Adele employs a range of methodologies to study the experiences of adventure par
 
 She is a member of the Adventure Tourism Research Association (ATRA), an organisation which seeks to bring together academics, adventure professionals and commercial operators, and is a steering group committee member. 
 
-As a member of ORRG, she is currently  working with Sheffield City Council on a project to develop adventure-based city breaks designed to attract international sports enthusiasts. The project was awarded by VisitBritain's Discover England fund. 
-
-[](http://shura.shu.ac.uk/id/eprint/18630)
+As a member of ORRG, she is currently  working with Sheffield City Council on a project to develop adventure-based city breaks designed to attract international sports enthusiasts. The project was awarded by VisitBritain's Discover England fund.
