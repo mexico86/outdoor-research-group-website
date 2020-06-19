@@ -20,12 +20,24 @@ outputs:
 ---
 ## Expertise
 
-Track Record
+Literature Review
 
-My academic background lies in tourism and recreation studies and I have taught at both undergraduate and postgraduate levels on tourism, recreation and management modules. My research focuses on the experiences of adventure tourists and adventure recreationalists.
+Mixed Methods
 
-My primary research focuses on the experiences of female climbers and mountaineers, the constraints they encounter and negotiate when accessing and participating and the benefits they gain from these experiences. Additional projects include an investigation of women’s representation on adventure social media and the impact adventure activities have on women’s well-being.
+Qualitative
 
-I employ a range of methodologies to study the experiences of adventure participants, including survey research, ethnography and social media research. I was previously a snowboard instructor in America and I am an enthusiast of the outdoors, which has inspired my research.
+Data Collection
 
-I am a member of the Adventure Tourism Research Association (ATRA), an organisation which seeks to bring together academics, adventure professionals and commercial operators, and I sit on their steering group committee. I am also a member of the Outdoor Recreation Research Group (ORRG), which is a group of Sheffield Hallam University research experts with expertise in diverse areas of the outdoor recreation sector. Currently we are working with Sheffield City Council on a project to develop adventure-based city breaks designed to attract international sports enthusiasts. The project was awarded by VisitBritain and their Discover England fund.
+Data Analysis
+
+## Track Record
+
+My research focuses on the experiences of adventure tourists and adventure recreationalists.
+
+Primary research has focused on the experiences of female climbers and mountaineers, the constraints they encounter and negotiate when accessing and participating in the sport and the benefits they gain from these experiences. Additional projects include an investigation of women’s representation on adventure social media and the impact adventure activities have on women’s well-being.
+
+I employ a range of methodologies to study the experiences of adventure participants, including survey research, ethnography and social media research.
+
+I am a member of the Adventure Tourism Research Association (ATRA), an organisation which seeks to bring together academics, adventure professionals and commercial operators, and I am a steering group committee member. 
+
+As a member of ORRG, I am currently  working with Sheffield City Council on a project to develop adventure-based city breaks designed to attract international sports enthusiasts. The project was awarded by VisitBritain and their Discover England fund.
