@@ -17,14 +17,12 @@ outputs:
   - HTML
   - VCF
 ---
+## Expertise
+
 
 
 Craig works within the Department of Sport as a lecturer in physical education, health and sport. He previously worked for 19 years in mainly secondary education with subject specialisms in physical education and geography. 
 
 He joined Sheffield Hallam University two years ago and is keen to develop a career in research and raise the profile of physical education, physical activity and health within a school curriculum context. He hopes to engage with members of ORRG and partners in research projects in the outdoor setting.
-
-
-
-
 
 A proportion of this time was spent at both middle management and senior leadership levels.
