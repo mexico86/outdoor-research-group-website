@@ -1,5 +1,5 @@
 ---
-name: Adele Doran
+name: Adele Doran- Senior Lecturer
 department: Tourism & Recreation
 contact: a.doran@shu.ac.uk
 expertise:
@@ -8,7 +8,7 @@ expertise:
   - Mixed Methods
   - Data Collection
   - Data Analysis
-role: Senior Lecturer
+role: ORRG Member
 institution: Sheffield Hallam University
 image: https://res.cloudinary.com/mexico86/image/upload/v1580488336/Mug%20Shots/adle_doran_yzxp2o.jpg
 twitter: '"@adele_doran "'
@@ -18,6 +18,13 @@ outputs:
   - HTML
   - VCF
 ---
+Expertise
+
+
+
+
+
+Track Record
 
 My academic background lies in tourism and recreation studies and I have taught at both undergraduate and postgraduate levels on tourism, recreation and management modules. My research focuses on the experiences of adventure tourists and adventure recreationalists.
 
