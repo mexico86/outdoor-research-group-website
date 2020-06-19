@@ -1,9 +1,10 @@
 ---
-name: Craig Haslingden- Lecturer Physical Education, Sport and Health
+name: 'Craig Haslingden- Lecturer Physical Education, Sport and Health'
 role: Member of ORRG
 institution: Sheffield Hallam University
 department: Department of Sport
-image: https://res.cloudinary.com/mexico86/image/upload/a_90/v1580489295/Mug%20Shots/Craig_Haslingden_dvvgyo.jpg
+image: >-
+  https://res.cloudinary.com/mexico86/image/upload/a_90/v1580489295/Mug%20Shots/Craig_Haslingden_dvvgyo.jpg
 contact: ch2312@exchange.shu.ac.uk
 expertise:
   - Education
@@ -11,8 +12,8 @@ expertise:
   - Qualitative
   - Connections
   - Health
-website: https://www.shu.ac.uk/about-us/our-people/staff-profiles/craig-haslingden
-weight: "33"
+website: 'https://www.shu.ac.uk/about-us/our-people/staff-profiles/craig-haslingden'
+weight: '33'
 outputs:
   - HTML
   - VCF
