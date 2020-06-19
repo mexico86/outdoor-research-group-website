@@ -3,7 +3,8 @@ name: Chloe Hindmarsh- Senior Lecturer
 role: Member of ORRG
 institution: Sheffield Hallam University
 department: Social Sciences and Humanities
-image: https://res.cloudinary.com/mexico86/image/upload/v1580488166/Mug%20Shots/chloe_hindmarsh_di0rxt.jpg
+image: >-
+  https://res.cloudinary.com/mexico86/image/upload/v1580488166/Mug%20Shots/chloe_hindmarsh_di0rxt.jpg
 contact: dsch12@exchange.shu.ac.uk
 expertise:
   - Education
@@ -11,13 +12,14 @@ expertise:
   - Green Space
   - Design Processes / Co-Production
   - Project Management
-linkedin: https://www.linkedin.com/in/chloe-hindmarsh-a9591a50/
-website: https://www.shu.ac.uk/about-us/our-people/staff-profiles/chloe-hindmarsh
-weight: "33"
+linkedin: 'https://www.linkedin.com/in/chloe-hindmarsh-a9591a50/'
+website: 'https://www.shu.ac.uk/about-us/our-people/staff-profiles/chloe-hindmarsh'
+weight: '33'
 outputs:
   - HTML
   - VCF
 ---
+
 ## Expertise
 
 Project Management, Design Processes/Co-production, Connections, Education, Green Spaces.

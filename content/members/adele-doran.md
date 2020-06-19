@@ -10,14 +10,16 @@ expertise:
   - Data Analysis
 role: Member of ORRG
 institution: Sheffield Hallam University
-image: https://res.cloudinary.com/mexico86/image/upload/v1580488336/Mug%20Shots/adle_doran_yzxp2o.jpg
+image: >-
+  https://res.cloudinary.com/mexico86/image/upload/v1580488336/Mug%20Shots/adle_doran_yzxp2o.jpg
 twitter: '"@adele_doran "'
-website: https://www.shu.ac.uk/about-us/our-people/staff-profiles/adele-doran
-weight: "29"
+website: 'https://www.shu.ac.uk/about-us/our-people/staff-profiles/adele-doran'
+weight: '29'
 outputs:
   - HTML
   - VCF
 ---
+
 ## Expertise
 
 Literature Reviews, Mixed Methods, Qualitative, Data Collection and Analysis
