@@ -8,7 +8,7 @@ expertise:
   - Mixed Methods
   - Data Collection
   - Data Analysis
-role: ORRG Member
+role: Member of ORRG
 institution: Sheffield Hallam University
 image: https://res.cloudinary.com/mexico86/image/upload/v1580488336/Mug%20Shots/adle_doran_yzxp2o.jpg
 twitter: '"@adele_doran "'
