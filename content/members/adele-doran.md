@@ -18,11 +18,7 @@ outputs:
   - HTML
   - VCF
 ---
-Expertise
-
-
-
-
+## Expertise
 
 Track Record
 
